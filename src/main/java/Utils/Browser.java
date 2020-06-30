@@ -14,7 +14,7 @@ public class Browser {
 
     @Step("Открытие браузера Chrome в разрешении 1920:1080")
     public WebDriver Chrome() {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\bolshakova\\TestByFil\\drivers\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "D:\\Greensight\\IntelliJIDEA\\test_maven\\drivers\\chromedriver.exe");
         driver = new ChromeDriver();
         return driver;
     }
@@ -27,14 +27,14 @@ public class Browser {
 
     @Step("Открытие браузера Firefox в разрешении 1920:1080")
     public WebDriver FireFox() {
-        System.setProperty("webdriver.gecko.driver", "C:\\Users\\bolshakova\\TestByFil\\drivers\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "D:\\Greensight\\IntelliJIDEA\\test_maven\\drivers\\geckodriver.exe");
         driver = new FirefoxDriver();
         return driver;
     }
 
     @Step("Открытие браузера Edge в разрешении 1920:1080")
     public WebDriver Edge() {
-        System.setProperty("webdriver.gecko.driver", "C:\\Users\\bolshakova\\TestByFil\\drivers\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "D:\\Greensight\\IntelliJIDEA\\test_maven\\drivers\\geckodriver.exe");
         driver = new EdgeDriver();
         return driver;
     }
