@@ -69,7 +69,7 @@ import java.util.concurrent.TimeUnit;
     public void HeaderBasket()throws InterruptedException {
         header.Basket();
     }
-
+    @Ignore
     @Test
     @Link(name = "Ссылка на страницу ЛК", url = "https://dostavka.auchan.ru/auth")
     @DisplayName("ЛК в Хедере")
@@ -78,6 +78,7 @@ import java.util.concurrent.TimeUnit;
         header.LK();
     }
 
+    @Ignore
     @Test
     @DisplayName("Лого в Хедере")
     @Owner(value = "Большакова Полина Денисовна")
