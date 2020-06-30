@@ -1,0 +1,7 @@
+"Status","Name","Duration in ms","Description"
+"passed","MainClassTest.MainAddressDelivery","4754",""
+"skipped","BasicTestTemplatesClassTest","1",""
+"skipped","HeaderClassTest","0",""
+"passed","MainClassTest.MainBanner","2070",""
+"passed","MainClassTest.MainProductCart","9293",""
+"passed","MainClassTest.MainCategori1","14959",""

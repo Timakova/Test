@@ -1,0 +1,61 @@
+[ {
+  "uid" : "5c2e913109abc4dd",
+  "name" : "Адрес доставки на главной",
+  "time" : {
+    "start" : 1593533752977,
+    "stop" : 1593533757731,
+    "duration" : 4754
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ce96788eec3604",
+  "name" : "Основные события для тест-сценариев",
+  "time" : {
+    "start" : 1593533722752,
+    "stop" : 1593533722753,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "60f587392d3fe564",
+  "name" : "Хедер",
+  "time" : {
+    "start" : 1593533722824,
+    "stop" : 1593533722824,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b46734d2f4031488",
+  "name" : "Баннер на главной",
+  "time" : {
+    "start" : 1593533757733,
+    "stop" : 1593533759803,
+    "duration" : 2070
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c903942707a4d087",
+  "name" : "Проверить товар на наличие и положить в корзну",
+  "time" : {
+    "start" : 1593533743683,
+    "stop" : 1593533752976,
+    "duration" : 9293
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "955687c2fc898ca9",
+  "name" : "Категории на главной",
+  "time" : {
+    "start" : 1593533728720,
+    "stop" : 1593533743679,
+    "duration" : 14959
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]

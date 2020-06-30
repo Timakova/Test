@@ -1,0 +1,89 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Основные события для тест-сценариев",
+    "children" : [ {
+      "name" : "Основные события для тест-сценариев",
+      "uid" : "1ce96788eec3604",
+      "parentUid" : "f8e65838e6d24eb8bb51b7a93bb3317e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1593533722752,
+        "stop" : 1593533722753,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f8e65838e6d24eb8bb51b7a93bb3317e"
+  }, {
+    "name" : "Хедер",
+    "children" : [ {
+      "name" : "Хедер",
+      "uid" : "60f587392d3fe564",
+      "parentUid" : "06aeaa426cac36abf0a49bf0c3bdfcdc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1593533722824,
+        "stop" : 1593533722824,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "06aeaa426cac36abf0a49bf0c3bdfcdc"
+  }, {
+    "name" : "Главная",
+    "children" : [ {
+      "name" : "Категории на главной",
+      "uid" : "955687c2fc898ca9",
+      "parentUid" : "3fbda4e25b13f42cfd5d1f7fad802dd2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593533728720,
+        "stop" : 1593533743679,
+        "duration" : 14959
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверить товар на наличие и положить в корзну",
+      "uid" : "c903942707a4d087",
+      "parentUid" : "3fbda4e25b13f42cfd5d1f7fad802dd2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593533743683,
+        "stop" : 1593533752976,
+        "duration" : 9293
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Адрес доставки на главной",
+      "uid" : "5c2e913109abc4dd",
+      "parentUid" : "3fbda4e25b13f42cfd5d1f7fad802dd2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593533752977,
+        "stop" : 1593533757731,
+        "duration" : 4754
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Баннер на главной",
+      "uid" : "b46734d2f4031488",
+      "parentUid" : "3fbda4e25b13f42cfd5d1f7fad802dd2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593533757733,
+        "stop" : 1593533759803,
+        "duration" : 2070
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3fbda4e25b13f42cfd5d1f7fad802dd2"
+  } ]
+}

@@ -1,0 +1,77 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Основные события для тест-сценариев",
+    "uid" : "1ce96788eec3604",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1593533722752,
+      "stop" : 1593533722753,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Хедер",
+    "uid" : "60f587392d3fe564",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1593533722824,
+      "stop" : 1593533722824,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Категории на главной",
+    "uid" : "955687c2fc898ca9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1593533728720,
+      "stop" : 1593533743679,
+      "duration" : 14959
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Проверить товар на наличие и положить в корзну",
+    "uid" : "c903942707a4d087",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1593533743683,
+      "stop" : 1593533752976,
+      "duration" : 9293
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Адрес доставки на главной",
+    "uid" : "5c2e913109abc4dd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1593533752977,
+      "stop" : 1593533757731,
+      "duration" : 4754
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Баннер на главной",
+    "uid" : "b46734d2f4031488",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1593533757733,
+      "stop" : 1593533759803,
+      "duration" : 2070
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
